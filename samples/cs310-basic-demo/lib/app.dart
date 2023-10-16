@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:cs310_flutter_demo/state.dart';
 import 'package:provider/provider.dart';
+import './state.dart';
 
 class AppBody extends StatelessWidget {
   const AppBody({super.key});
